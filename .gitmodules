@@ -1,0 +1,3 @@
+[submodule "components/iotivity/iotivity-lite"]
+	path = components/iotivity/iotivity-lite
+	url = https://github.com/iotivity/iotivity-lite.git
